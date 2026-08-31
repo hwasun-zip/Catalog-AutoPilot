@@ -89,4 +89,4 @@ Claude에게 단순히 "이상치인지 아닌지"를 묻지 않고, 아래 정�
 
 ## 🔗 관련 프로젝트
 
-이 프로젝트는 Catalog Triage (SQL 기반 카탈로그 품질 이상탐지 & 우선순위 분석) 프로젝트의 산출물을 입력으로 사용합니다.
+이 프로젝트는 [Catalog Triage](https://github.com/hwasun-zip/catalog-triage) (SQL 기반 카탈로그 품질 이상탐지 & 우선순위 분석) 프로젝트의 산출물을 입력으로 사용합니다.
